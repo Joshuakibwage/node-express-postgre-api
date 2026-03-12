@@ -63,5 +63,3 @@ enum WatchListStatus {
   COMPLETED
   DROPPED
 }
-
-
