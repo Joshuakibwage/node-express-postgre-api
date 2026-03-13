@@ -142,6 +142,7 @@ const updateWatchListItem = async (req, res) => {
 
 export {
     addToWatchList,
-    removeFromWatchList
+    removeFromWatchList,
+    updateWatchListItem
 };
 
